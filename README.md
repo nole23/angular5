@@ -1,9 +1,15 @@
-# Proba
+# My first create angular 5 project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.1.
 
 ## Development server
 
+Create first project: 
+  * `ng new name_project --style=scss --routing`.
+  * `cd name_project`
+  * `ng serve`
+  * if you want to change the port `ng serve --port 3000`
+  
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
